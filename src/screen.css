@@ -1,0 +1,35 @@
+@media only screen and (min-width: 1920px) {
+    .cards {
+        margin: 100px;
+        margin-top: 13px;
+    }
+
+    #tra1, #tra2, #tra3, #tra4, #tra5, #art1, #art2, #art3, #art4, #art5 {
+        height: 250px;
+        width: 250px;
+    }
+
+    h3 {
+        margin-left: 9.5%;
+    }
+
+    .Toptracks {
+        margin-top: 160px;
+    }
+
+    .contacts {
+        margin-top: -70px;
+    }
+
+    #logo {
+        margin-top: -2px;
+    }
+
+    #artist1name, #artist2name, #artist3name, #artist4name, #artist5name, #track1name, #track2name, #track3name, #track4name, #track5name {
+        font-size: 25px;
+    }
+
+   .toptext {
+        font-size: 40px;
+    }
+}
