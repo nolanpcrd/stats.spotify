@@ -73,6 +73,11 @@ h3 {
   justify-content: center;
 }
 
+.cards-container {
+  display: block;
+  text-align: center;
+}
+
 .cards {
   z-index: 1;
   height: 150px;
@@ -123,7 +128,7 @@ h3 {
 }
 
 .Topartists {
-  margin-top: -60px;
+  margin-top: -75px;
 }
 
 h2 {
